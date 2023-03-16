@@ -1,0 +1,7 @@
+.product-item img {
+    max-width: 250px;
+    max-height: 250px;
+}
+.product-item .heart-icon {
+    cursor: pointer;
+}

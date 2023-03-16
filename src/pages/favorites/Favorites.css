@@ -1,0 +1,7 @@
+.favorites-page img {
+    max-height: 100px;
+}
+
+.favorites-page .heart-icon {
+    cursor: pointer;
+}
